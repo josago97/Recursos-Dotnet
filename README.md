@@ -1,7 +1,11 @@
 # Recursos-Dotnet
-En este repositorio recopilaré todo tipo de librerías, herramientas y documentación útiles para desarrollar aplicaciones dentro del entorno de .NET.
+En este repositorio recopilaré todo tipo de herramientas y documentación útiles para desarrollar aplicaciones dentro del entorno de .NET.
 
 ## Blazor
+### Documentación
+[Blazor University](https://blazor-university.com/overview/)
+
+### Herramientas
 [Awesome Blazor](https://jsakamoto.github.io/awesome-blazor-browser/?k=)
 
 [BlazorBoostrap](https://demos.getblazorbootstrap.com/)
