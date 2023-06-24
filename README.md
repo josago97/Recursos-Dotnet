@@ -10,6 +10,10 @@ En este repositorio recopilaré todo tipo de herramientas y documentación útil
 
 [BlazorBoostrap](https://demos.getblazorbootstrap.com/)
 
+[BlazorStrap](https://blazorstrap.io/V5/V5)
+
+[Blazor Zone](https://www.blazor.zone/)
+
 [MudBlazor](https://mudblazor.com/)
 
 [QuickGrid](https://aspnet.github.io/quickgridsamples/)
