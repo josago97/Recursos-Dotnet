@@ -12,6 +12,8 @@ En este repositorio recopilaré todo tipo de herramientas y documentación útil
 
 [BlazorStrap](https://blazorstrap.io/V5/V5)
 
+[Blazor library](https://blazorlibrary.com/)
+
 [Blazor Zone](https://www.blazor.zone/)
 
 [MudBlazor](https://mudblazor.com/)
