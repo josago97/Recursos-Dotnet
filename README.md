@@ -18,6 +18,8 @@ En este repositorio recopilaré todo tipo de herramientas y documentación útil
 
 [QuickGrid](https://aspnet.github.io/quickgridsamples/)
 
+[Local Storage](https://github.com/Blazored/LocalStorage)
+
 ## Unity
 [Zenject](https://github.com/modesttree/Zenject)
 
