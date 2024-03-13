@@ -6,6 +6,8 @@ En este repositorio recopilaré todo tipo de herramientas y documentación útil
 [Blazor University](https://blazor-university.com/overview/)
 
 ### Herramientas
+[Ant-Design](https://antblazor.com/en-US/)
+
 [Awesome Blazor](https://jsakamoto.github.io/awesome-blazor-browser/?k=)
 
 [BlazorBoostrap](https://demos.getblazorbootstrap.com/)
@@ -17,6 +19,8 @@ En este repositorio recopilaré todo tipo de herramientas y documentación útil
 [Blazor Zone](https://www.blazor.zone/)
 
 [MudBlazor](https://mudblazor.com/)
+
+[Radzen](https://blazor.radzen.com/)
 
 [QuickGrid](https://aspnet.github.io/quickgridsamples/)
 
