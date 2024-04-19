@@ -12,6 +12,8 @@ En este repositorio recopilaré todo tipo de herramientas y documentación útil
 
 [BlazorBoostrap](https://demos.getblazorbootstrap.com/)
 
+[Blazority](https://blazority.com/)
+
 [BlazorStrap](https://blazorstrap.io/V5/V5)
 
 [Blazor library](https://blazorlibrary.com/)
